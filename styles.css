@@ -107,7 +107,7 @@ a{
     
     color: rgb(255, 255, 255);
     font-size: .8rem;
-    background: linear-gradient(#42708d, #28526d88), url('IMG/fondo.jpg');
+    background: linear-gradient(#42708d, #28526d88), url('img/fondo.jpg');
     background-size: cover;
     background-position: center;   
     padding-bottom: 7rem;
