@@ -59,7 +59,7 @@ a{
     padding-top: 1rem;
     min-height: 100vh;
     min-width: 100vb;
-    background: linear-gradient(rgba(0, 0, 0, 0.538), #00000050), url('img/fondino.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.538), #00000050), url('./img/fondino.jpg');
     background-size: cover;
     background-position: center;   
     text-align: center;
@@ -107,7 +107,7 @@ a{
     
     color: rgb(255, 255, 255);
     font-size: .8rem;
-    background: linear-gradient(#42708d, #28526d88), url('img/fondo.jpg');
+    background: linear-gradient(#42708d, #28526d88), url('./img/fondo.jpg');
     background-size: cover;
     background-position: center;   
     padding-bottom: 7rem;
@@ -222,7 +222,7 @@ a{
 }
 
 #hero3 {
-    background: linear-gradient(rgba(30, 108, 157, 0.693), rgba(237, 237, 237, 0)), url('/IMG/pradera2.jpg');
+    background: linear-gradient(rgba(30, 108, 157, 0.693), rgba(237, 237, 237, 0)), url('/./img/pradera2.jpg');
     background-size: cover;
     background-position: center;
     padding-left: 7rem;
