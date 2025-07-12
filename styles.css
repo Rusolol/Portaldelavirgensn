@@ -59,7 +59,7 @@ a{
     padding-top: 1rem;
     min-height: 100vh;
     min-width: 100vb;
-    background: linear-gradient(rgba(0, 0, 0, 0.538), #00000050), url('./img/fondino.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.538), #00000050), url('img/fondino.jpg');
     background-size: cover;
     background-position: center;   
     text-align: center;
